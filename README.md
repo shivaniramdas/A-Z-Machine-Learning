@@ -3,6 +3,7 @@
 > I have been working towards revising and building on some old concepts related to Machine Learning. Here is a synopsis of the topics I am touching upon:
 
 1. Identify the problem:
+
        a. Based on human intervention - Supervised / Unsupervised / Semi-supervised / Reinforcemnet learning
        b. Capability to learn on the fly - Batch(offline) / Online
        c. Generalisation - instance based / model based
@@ -10,6 +11,7 @@
        e. Univariate / Multivariate
        
 2. Choose performance measures
+
        - Regression - RMSE(l2,eucladian,sentitive to outliers) / MAE(l1,manhattan,best outliers present)
        - Classification - Accuracy using CV, confusion matrix, precision-recall curve, roc curve
        
